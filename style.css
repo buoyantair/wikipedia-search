@@ -1,0 +1,48 @@
+.header{
+  background: #341938;
+  color: #FFF;
+  margin-bottom: 0;
+}
+.searchholder{
+  background: #753A4A;
+  color: #FFF;
+  overflow: hidden;
+  margin: 0; padding: 0;
+}
+
+.btn{
+  float: left;
+}
+#searchbar{
+  color: #000;
+  border: none;
+  min-width: 88%;
+  min-height: 25px;
+  font-size: 25px;
+}
+
+#searchbtn{
+  float: right;
+  background: #627DDB;
+  color: #FFF;
+  border: none;
+  min-height: 25px;
+}
+
+body{
+  background: #E1EDE5;
+}
+
+.result{
+  display: block;
+  min-height: 80px;
+  background: #FFF;
+  color: #3A133B;
+  padding: .5em;
+  margin-top: 1em;
+}
+
+
+a, a:hover, a:active, a:visited{
+  text-decoration: none;
+}
